@@ -1,6 +1,6 @@
 # jpa-bgggggh-jpa02
 
-Repo: https://ucsb-cs156-f24/STARTER-jpa02-Bgggggh
+Repo: https://ucsb-cs156-f24/jpa02-Bgggggh
 
 Deployed at: https://jpa02-bgggggh.dokku-05.cs.ucsb.edu
 
